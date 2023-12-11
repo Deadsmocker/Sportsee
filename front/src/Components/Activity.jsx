@@ -81,7 +81,7 @@ function Activity() {
                 bottom: 10,
               }}
               barGap={1} 
-              barCategoryGap={70}
+              barCategoryGap={80}
             >
               <CartesianGrid strokeDasharray="3 3" vertical={false}/>
               <XAxis dataKey="day" tickLine={false} dy={10} scale="point" padding={{left: 20, right: 20}}/>
