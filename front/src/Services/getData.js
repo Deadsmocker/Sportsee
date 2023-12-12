@@ -6,6 +6,7 @@ import UserActivity from '../Model/UserActivity'
 import UserAverage from '../Model/UserAverage'
 import UserPerformance from '../Model/UserPerformance'
 
+
 /**
  * Function to fetch data from the API or provide local data based on dev/prod mode.
  * @param {string} url - The URL to fetch data from.

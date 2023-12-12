@@ -7,7 +7,7 @@ import Page404 from './Pages/Page404'
 import Dashboard from './Pages/Dashboard'
 
 // isDevMode set the way we fetch the data (local/API)
-export const isDevMode = false
+export const isDevMode = true
 console.log("Is app running in Dev Mode? ", isDevMode)
 
 function App() {
